@@ -1,2 +1,2 @@
 # aldros
-This is a git for our software engineering final project
+This is a git for my software engineering final project
